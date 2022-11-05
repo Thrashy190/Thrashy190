@@ -15,10 +15,10 @@
   </a>
    
   <a href="https://dev.to/thrashy190">
-    <img src="https://img.shields.io/badge/dev.to-white?style=for-the-badge&logo=dev.to&logoColor=black" alt="Twitch Badge"/>
+    <img src="https://img.shields.io/badge/Dev.to-white?style=for-the-badge&logo=dev.to&logoColor=black" alt="Twitch Badge"/>
   </a>
-   <a href="https://dev.to/thrashy190">
-    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Twitch Badge"/>
+   <a href="https://discord.gg/2skZVhpbjK">
+    <img src="https://img.shields.io/badge/Discord_server-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 
