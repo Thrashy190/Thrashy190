@@ -43,13 +43,11 @@
 
 ### 📊 Stats
 
-<div style="display:flex flex-direction: row;">
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thrashy190&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thrashy190&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+<a href="https://github.com/thepiyushmalhotra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thrashy190&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrashy190&theme=noctis_minimus&layout=compact" />
+</a>
 
 
 
