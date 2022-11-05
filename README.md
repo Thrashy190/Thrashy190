@@ -1,12 +1,17 @@
 
-# 💀 Diego Antonio López Martínez (@Thrashy190)
 
-**`FullStack Developer (Student/Gamer/Streamer)`**
 
----
+
 <div align="center">
   <h1>💀 Diego Antonio López Martínez (@Thrashy190)</h1>
 </div>
+
+#
+
+**`FullStack Developer (Student/Gamer/Streamer)`**
+
+#
+
 <div align="center" id="badges">
   <a href="www.linkedin.com/in/thrashy190">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
