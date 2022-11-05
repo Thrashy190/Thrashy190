@@ -1,9 +1,5 @@
 <h1 align="center">💀 Diego Antonio López Martínez (@Thrashy190)</h1>
 
-<div align="center">
-  <img src="./anime-coding.gif" alt="gif"/>
-</div>
-
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/thrashy190">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,6 +20,10 @@
    <a href="https://discord.gg/2skZVhpbjK">
     <img src="https://img.shields.io/badge/Discord_server-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
+</div>
+
+<div align="center">
+  <img src="./anime-coding.gif" alt="gif"/>
 </div>
 
 <br />
