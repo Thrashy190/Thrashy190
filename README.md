@@ -10,12 +10,15 @@
   <a href="https://twitter.com/Thrashybb345">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <a href="https://www.twitch.tv/thrashy19">
+   <a href="https://www.twitch.tv/thrashy19">
     <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
   </a>
-    </a>
-    <a href="https://dev.to/thrashy190">
+   
+  <a href="https://dev.to/thrashy190">
     <img src="https://img.shields.io/badge/dev.to-white?style=for-the-badge&logo=dev.to&logoColor=black" alt="Twitch Badge"/>
+  </a>
+   <a href="https://dev.to/thrashy190">
+    <img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=dicord&logoColor=white" alt="Twitch Badge"/>
   </a>
 </div>
 
