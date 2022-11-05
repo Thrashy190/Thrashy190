@@ -1,6 +1,6 @@
 <h1 align="center">💀 Diego Antonio López Martínez (@Thrashy190)</h1>
 
-<img src="./anime-coding.gif" alt="gif"/>
+<img align="center" src="./anime-coding.gif" alt="gif"/>
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/thrashy190">
