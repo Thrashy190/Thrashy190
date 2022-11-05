@@ -1,5 +1,5 @@
 
-# 🏄‍♂️ Forrest Knight
+# 🏄‍♂️ Diego Antonio (@Thrashy190)
 
 **`FullStack Developer (Student/Gamer/Streamer)`**
 
