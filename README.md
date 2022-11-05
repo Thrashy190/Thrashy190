@@ -3,14 +3,11 @@
 
 **`FullStack Developer (Student/Gamer/Streamer)`**
 
-- 👋 Hi, I’m Diego or you can call me Thrashy
-- 👀 I’m interested in Front-end and Back-end web development 
-- 🌱 I’m currently learning how all the backend work
-- 📫 You can talk to me on twitter [@Thrashybb345](https://twitter.com/Thrashybb345) or instagram [@_thrashy_](https://www.instagram.com/_thrashy_/)
-
 ---
-
-<<div id="badges">
+<div align="center">
+  <h1>💀 Diego Antonio López Martínez (@Thrashy190)</h1>
+</div>
+<div align="center" id="badges">
   <a href="www.linkedin.com/in/thrashy190">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
