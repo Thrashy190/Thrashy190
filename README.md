@@ -20,7 +20,7 @@
 
 <br />
 
-### 👨‍💻 Who im i?
+### 👨‍💻 Who am i?
 
 **`FullStack Developer (Student/Gamer/Streamer)`**
 
