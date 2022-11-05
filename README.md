@@ -1,3 +1,8 @@
+
+# 🏄‍♂️ Forrest Knight
+
+**`FullStack Developer (Student/Gamer/Streamer)`**
+
 - 👋 Hi, I’m Diego or you can call me Thrashy
 - 👀 I’m interested in Front-end and Back-end web development 
 - 🌱 I’m currently learning how all the backend work
@@ -7,7 +12,7 @@
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+<img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
