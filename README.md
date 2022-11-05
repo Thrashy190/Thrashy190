@@ -2,9 +2,8 @@
 
 
 
-<div align="center">
-  <h1>💀 Diego Antonio López Martínez (@Thrashy190)</h1>
-</div>
+<h1 align="center">💀 Diego Antonio López Martínez (@Thrashy190)</h1>
+
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/thrashy190">
