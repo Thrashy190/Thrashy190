@@ -22,6 +22,8 @@
   </a>
 </div>
 
+<br />
+
 <div align="center">
   <img src="./anime-coding.gif" alt="gif"/>
 </div>
