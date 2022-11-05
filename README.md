@@ -1,5 +1,7 @@
 <h1 align="center">💀 Diego Antonio López Martínez (@Thrashy190)</h1>
 
+<div align="center" class="tenor-gif-embed" data-postid="12104185" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/anime-coding-dagashi-kashi-java-script-gif-12104185">Anime Coding GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/thrashy190">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
