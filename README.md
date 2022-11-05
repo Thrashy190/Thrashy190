@@ -42,7 +42,7 @@
 ### 📊 Stats
 
 
-<a href="https://github.com/thepiyushmalhotra">
+<a href="https://github.com/Thrashy190">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thrashy190&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrashy190&theme=radical&layout=compact" />
 </a>
