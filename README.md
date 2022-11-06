@@ -1,4 +1,4 @@
-<h1 align="center">💀 Diego Antonio López Martínez (@Thrashy190)</h1>
+<h1 align="center">💀 Diego Antonio López Martínez (Thrashy) 💀</h1>
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/thrashy190">
@@ -33,6 +33,8 @@
 ## 👨‍💻 Who am i?
 
 **`FullStack Developer (Student/Gamer/Streamer)`**
+
+Hi i´m a 20 years old computerstystems engineer student who is passionate about the future technologies and innovation projects
 
 <br />
 
