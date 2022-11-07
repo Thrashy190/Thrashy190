@@ -36,8 +36,7 @@
 
 I´m a 20 year old computer systems engineer mexican student who is passionated about being part of the future, always learning cutting-edge technologies as well as always looking for the opportunity to share my knowledge and increase the community of tech in the world.
 
-I´m in love with the innovation and building things from scratch. My motto is "Reinvent the wheel", because is the best way to learn how the world works 
-and be able to drive discovery and improvement
+I´m in love with the innovation and building things from scratch. My motto is "Reinvent the wheel", Why?, because is the best way to learn how the world works and be able to drive discovery and improvement.
 
 
 ## 🧰 Languages and Tools
