@@ -34,7 +34,10 @@
 
 **`FullStack Developer (Student/Gamer/Streamer)`**
 
-Hi i´m a 20 years old computerstystems engineer student who is passionate about the future technologies and innovation projects
+I´m a 20 year old computer systems engineer mexican student who is passionated about being part of the future, always learning cutting-edge technologies as well as always looking for the opportunity to share my knowledge and increase the community of tech in the world.
+
+I´m in love with the innovation and building things from scratch. My motto is "Reinvent the wheel", because is the best way to learn how the world works 
+and be able to drive discovery and improvement
 
 <br />
 
