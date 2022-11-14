@@ -44,13 +44,13 @@ const tecnologies = {
          css: ["TailWind","MaterialUI"]
       },
       backEnd: {
-         go: ["Gorm","mux",""],
-         auth:["JWT","bcrypt"]
+         go: ["Gorm","Mux"],
+         auth:["JWT","Bcrypt"]
       },
       databases: ["PostgresSQL"],
       devOps:{
-        hosting : ["vercel or github pages"],
-        extras: ["docker"]
+        hosting : ["Vercel or Github pages"],
+        extras: ["Docker"]
       },
    },
    aboutIt: ["First im building the Api part for all the project"],
