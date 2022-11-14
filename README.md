@@ -30,11 +30,11 @@
 
 <br />
 
-## 🪚 Most resent building project and tecnologies
+## 🪚 Most resent  project and tecnologies
 
 * [Forum APi Go](https://github.com/Thrashy190/ForumApiGo)
 
-
+<br />
 
 ## 👨‍💻 Who am i?
 
