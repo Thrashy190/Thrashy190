@@ -33,6 +33,31 @@
 ## 🪚 Most recent project and tecnologies
 
 * [Forum APi Go](https://github.com/Thrashy190/ForumApiGo)
+* [Forum Front React](https://github.com/Thrashy190)
+
+```javascript
+const tecnologies = {
+   code: ["TypeScript", "HTML", "CSS", "Go"],
+   technologies: {
+      frontEnd: {
+         ts: ["React"],
+         css: ["TailWind","MaterialUI"]
+      },
+      backEnd: {
+         go: ["Gorm","mux",""],
+         auth:["JWT","bcrypt"]
+      },
+      databases: ["PostgresSQL"],
+      devOps:{
+        hosting : ["vercel or github pages"],
+        extras: ["docker]
+      }
+   },
+   aboutIt: ["First im building the Api part for all the project"],
+   challenge: "Learning Go at the same time ",
+};
+```
+
 
 <br />
 
