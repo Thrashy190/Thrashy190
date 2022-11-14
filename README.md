@@ -41,16 +41,16 @@ const tecnologies = {
    technologies: {
       frontEnd: {
          ts: ["React"],
-         css: ["TailWind","MaterialUI"],
+         css: ["TailWind","MaterialUI"]
       },
       backEnd: {
          go: ["Gorm","mux",""],
-         auth:["JWT","bcrypt"],
+         auth:["JWT","bcrypt"]
       },
       databases: ["PostgresSQL"],
       devOps:{
         hosting : ["vercel or github pages"],
-        extras: ["docker]
+        extras: ["docker"]
       },
    },
    aboutIt: ["First im building the Api part for all the project"],
