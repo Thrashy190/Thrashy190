@@ -30,7 +30,7 @@
 
 <br />
 
-## 🪚 Most resent  project and tecnologies
+## 🪚 Most recent project and tecnologies
 
 * [Forum APi Go](https://github.com/Thrashy190/ForumApiGo)
 
