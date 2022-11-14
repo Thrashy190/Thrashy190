@@ -30,6 +30,12 @@
 
 <br />
 
+## 🪚 Most resent building project and tecnologies
+
+* [Forum APi Go](https://github.com/Thrashy190/ForumApiGo)
+
+
+
 ## 👨‍💻 Who am i?
 
 **`FullStack Developer (Student/Gamer/Streamer)`**
