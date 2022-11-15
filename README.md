@@ -25,7 +25,7 @@
 <br />
 
 <div align="center">
-  <img src="./coding.png" alt="img"/>
+  <img width="150" height="150" src="./coding.png" alt="img"/>
 </div>
 
 <br />
