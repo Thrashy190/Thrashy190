@@ -25,7 +25,7 @@
 <br />
 
 <div align="center">
-  <img width="150" height="150" src="./coding.png" alt="img"/>
+  <img src="./anime-coding.gif" alt="img"/>
 </div>
 
 <br />
