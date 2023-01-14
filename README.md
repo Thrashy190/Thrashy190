@@ -63,7 +63,7 @@ const tecnologies = {
 
 ## 👨‍💻 Who am i?
 
-**`FullStack Developer (Student/Gamer/Streamer)`**
+**`FullStack Developer | Student | Gamer | Streamer `**
 
 I´m a 20 year old computer systems engineer mexican student who is passionated about being part of the future, always learning cutting-edge technologies as well as always looking for the opportunity to share my knowledge and increase the community of tech in the world.
 
