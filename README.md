@@ -367,7 +367,7 @@ I´m in love with the innovation and building things from scratch. My motto is "
 
 <a href="https://github.com/Thrashy190">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thrashy190&theme=radical&show_icons=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thrashy190&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrashy190&layout=compact" />
 </a>
 
 #
