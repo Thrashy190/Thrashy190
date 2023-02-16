@@ -101,15 +101,6 @@ I´m in love with the innovation and building things from scratch. My motto is "
   />
 </a>
 
-<a href="https://elixir-lang.org" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg"
-    alt="elixir"
-    width="40"
-    height="40"
-  />
-</a>
-
 <a href="https://golang.org" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
@@ -233,15 +224,6 @@ I´m in love with the innovation and building things from scratch. My motto is "
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-    alt="django"
-    width="40"
-    height="40"
-  />
-</a>
-  
-<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
     alt="django"
     width="40"
     height="40"
