@@ -216,7 +216,6 @@ I´m in love with the innovation and building things from scratch. My motto is "
   <img 
     src="./color.png" 
     alt="gin" 
-    width="40" 
     height="40"
   />
 </a>
