@@ -204,7 +204,12 @@ I´m in love with the innovation and building things from scratch. My motto is "
 </a>
   
  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+     <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"
+    alt="nodejs"
+    width="40"
+    height="40"
+  />
 </a>
   
 
