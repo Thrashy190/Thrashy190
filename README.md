@@ -204,16 +204,14 @@ I´m in love with the innovation and building things from scratch. My motto is "
 </a>
   
  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-     <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"
-    alt="nodejs"
+    <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+    alt="Nestjs"
     width="40"
     height="40"
   />
 </a>
-  
-
-  
+   
 
 <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
   <img 
