@@ -203,14 +203,12 @@ I´m in love with the innovation and building things from scratch. My motto is "
   />
 </a>
   
- <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-    alt="django"
-    width="40"
-    height="40"
-  />
+ <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </a>
+  
+
+  
 
 <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
   <img 
