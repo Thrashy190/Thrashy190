@@ -32,29 +32,22 @@
 
 ## 🪚 Current project and technologies
 
-* [Forum APi Go](https://github.com/Thrashy190/ForumApiGo)
-* [Forum Front React](https://github.com/Thrashy190/ForumFrontendReact)
+* [Microservices with gRPC](https://github.com/Thrashy190/golang-microcervices-gRPC)
 
 ```javascript
 const tecnologies = {
-   code: ["TypeScript", "HTML", "CSS", "Go"],
+   code: ["Go","Proton"],
    technologies: {
-      frontEnd: {
-         ts: ["React"],
-         css: ["TailWind","MaterialUI"]
-      },
       backEnd: {
-         go: ["Gorm","Mux"],
-         auth:["JWT","Bcrypt"]
+         go: ["gRPC"],
       },
       databases: ["PostgresSQL"],
       devOps:{
-        hosting : ["Vercel or Github pages"],
-        extras: ["Docker"]
+        deployment: ["Docker"]
       },
    },
-   aboutIt: ["First im building the Api part for all the project"],
-   challenge: "Learning Go at the same time ",
+   aboutIt: ["Im building two microservices (students, tests) to understand how they works and communicate"],
+   challenge: "Learning microservices",
 };
 ```
 
