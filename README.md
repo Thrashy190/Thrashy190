@@ -266,6 +266,15 @@ I´m in love with the innovation and building things from scratch. My motto is "
   />
 </a>
 
+<a href="https://redis.io/" target="_blank" rel="noreferrer">
+  <img
+    src="./redis.png"
+    alt="redis"
+    width="40"
+    height="40"
+  />
+</a>
+
 </p >
 
 ### ⚙ Others
