@@ -140,6 +140,16 @@ I´m in love with the innovation and building things from scratch. My motto is "
   />
 </a>
 
+<a href="https://www.rust-lang.org/es" target="\_blank" rel="noreferrer"> 
+  <img
+    src="./cuddlyferris.png"
+    alt="Rust"
+    width="40"
+    height="40"
+  />
+</a>
+
+
 </p>
 
 ### 💻 Front-end
@@ -320,6 +330,15 @@ I´m in love with the innovation and building things from scratch. My motto is "
   <img
     src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
     alt="tensorflow"
+    width="40"
+    height="40"
+  />
+</a>
+
+<a href="https://tauri.app/" target="_blank" rel="noreferrer">
+  <img
+    src="./tauri-1.svg"
+    alt="Tauri"
     width="40"
     height="40"
   />
