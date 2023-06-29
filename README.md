@@ -224,6 +224,14 @@ I´m in love with the innovation and building things from scratch. My motto is "
   />
 </a>
 
+<a href="https://grpc.io/" target="_blank" rel="noreferrer">
+  <img 
+    src="./grpc.png" 
+    alt="grpc" 
+    height="40"
+  />
+</a>
+
 </p >
 
 ### 💾 Data bases
