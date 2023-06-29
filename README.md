@@ -144,7 +144,7 @@ I´m in love with the innovation and building things from scratch. My motto is "
   <img
     src="./cuddlyferris.png"
     alt="Rust"
-    width="40"
+    width="50"
     height="40"
   />
 </a>
