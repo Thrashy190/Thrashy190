@@ -32,22 +32,21 @@
 
 ## 🪚 Current project and technologies
 
-* [Microservices with gRPC](https://github.com/Thrashy190/golang-microcervices-gRPC)
+* [Desktop Analysis App with Tauri](https://github.com/Thrashy190/DataAnalysisApp)
 
 ```javascript
 const tecnologies = {
-   code: ["Go","Proton"],
+   code: ["JavaScript","Rust"],
    technologies: {
-      backEnd: {
-         go: ["gRPC"],
+      desktopApp: {
+         Rust: ["Tauri"],
+         JavaScript: ["ReactJS"],
+         Styles: ["CoreUi","Tailwind","MaterialUI"],
       },
-      databases: ["PostgresSQL"],
-      devOps:{
-        deployment: ["Docker"]
-      },
+      databases: ["MongoDB"],
    },
-   aboutIt: ["Im building two microservices (students, tests) to understand how they works and communicate"],
-   challenge: "Learning microservices",
+   aboutIt: [This project is being developed with the purpose of analyzing/visualizing driving data from police school cadets"],
+   challenge: "Learning Rust from scratch",
 };
 ```
 
@@ -58,7 +57,7 @@ const tecnologies = {
 
 **`FullStack Developer | Student | Gamer | Streamer `**
 
-I´m a 20 year old computer systems engineer mexican student who is passionated about being part of the future, always learning cutting-edge technologies as well as always looking for the opportunity to share my knowledge and increase the community of tech in the world.
+I´m a 21 year old computer systems engineer mexican student who is passionated about being part of the future, always learning cutting-edge technologies as well as always looking for the opportunity to share my knowledge and increase the community of tech in the world.
 
 I´m in love with the innovation and building things from scratch. My motto is "Reinvent the wheel", Why?, because is the best way to learn how the world works and be able to drive discovery and improvement.
 
