@@ -45,7 +45,7 @@ const tecnologies = {
       },
       databases: ["MongoDB"],
    },
-   aboutIt: [This project is being developed with the purpose of analyzing/visualizing driving data from police school cadets"],
+   aboutIt: ["This project is being developed with the purpose of analyzing/visualizing driving data from police school cadets"],
    challenge: "Learning Rust from scratch",
 };
 ```
