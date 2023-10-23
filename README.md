@@ -68,30 +68,13 @@ I´m in love with the innovation and building things from scratch. My motto is "
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,go,java,py,rust,dart)](https://skillicons.dev)
 
 ### 💻 Front-end
-[![My Skills](https://skillicons.dev/icons?i=react,flutter,vue,bootstrap,tailwind,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,vue,nuxtjs,bootstrap,tailwind,sass)](https://skillicons.dev)
 
 ### 🔧 Back-end
 
 <p align="left">
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
-</a>
-  
- <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
-    alt="Nestjs"
-    width="40"
-    height="40"
-  />
-</a>
-   
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,prisma)](https://skillicons.dev)   
 
 <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
   <img 
