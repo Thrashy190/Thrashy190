@@ -65,147 +65,23 @@ I´m in love with the innovation and building things from scratch. My motto is "
 ## 🧰 Languages and Tools
 
 ### 💡 Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,go,java,py,rust,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,go,java,py,rust,dart,php)](https://skillicons.dev)
 
 ### 💻 Front-end
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,vue,nuxtjs,bootstrap,tailwind,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,vue,nuxtjs,bootstrap,tailwind,sas,materialui,redux)](https://skillicons.dev)
 
 ### 🔧 Back-end
-
-<p align="left">
-
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,prisma)](https://skillicons.dev)   
-
-<a href="https://gin-gonic.com/" target="_blank" rel="noreferrer">
-  <img 
-    src="./color.png" 
-    alt="gin" 
-    height="40"
-  />
-</a>
-
-<a href="https://grpc.io/" target="_blank" rel="noreferrer">
-  <img 
-    src="./grpc.png" 
-    alt="grpc" 
-    height="40"
-  />
-</a>
-
-</p >
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,prisma,go,graphql,laravel)](https://skillicons.dev)   
 
 ### 💾 Data bases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,redis)](https://skillicons.dev)   
 
-<p align="left">
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-    alt="mongodb"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-    alt="postgresql"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://redis.io/" target="_blank" rel="noreferrer">
-  <img
-    src="./redis.png"
-    alt="redis"
-    width="40"
-    height="40"
-  />
-</a>
-
-</p >
+### ☁️ DevOps - cloud
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,heroku,firebase,nginx,jenkins,jest,kafka,kubernetes)](https://skillicons.dev) 
 
 ### ⚙ Others
+[![My Skills](https://skillicons.dev/icons?i=figma,git,githubactions,github,neovim,postman,qt,tauri,tensorflow,threejs,vim,webpack,wordpress,git)](https://skillicons.dev) 
 
-<p align="left">
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://firebase.g oogle.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-    alt="firebase"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-    alt="git"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://graphql.org" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-    alt="graphql"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"
-    alt="opencv"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-    alt="postman"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
-    alt="tensorflow"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://tauri.app/" target="_blank" rel="noreferrer">
-  <img
-    src="./tauri-1.svg"
-    alt="Tauri"
-    width="40"
-    height="40"
-  />
-</a>
-
-</p >
-
-#
 
 ## 📊 Stats
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thrashy190&theme=dracula&border_radius=4&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
