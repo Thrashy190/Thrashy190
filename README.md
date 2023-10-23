@@ -68,7 +68,7 @@ I´m in love with the innovation and building things from scratch. My motto is "
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,go,java,py,rust,dart,php)](https://skillicons.dev)
 
 ### 💻 Front-end
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,vue,nuxtjs,bootstrap,tailwind,sas,materialui,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,vue,nuxtjs,bootstrap,tailwind,sass,materialui,redux)](https://skillicons.dev)
 
 ### 🔧 Back-end
 [![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,prisma,go,graphql,laravel)](https://skillicons.dev)   
