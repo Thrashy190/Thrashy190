@@ -80,7 +80,7 @@ I´m in love with the innovation and building things from scratch. My motto is "
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,heroku,firebase,nginx,jenkins,jest,kafka,kubernetes)](https://skillicons.dev) 
 
 ### ⚙ Others
-[![My Skills](https://skillicons.dev/icons?i=figma,git,githubactions,github,neovim,postman,qt,tauri,tensorflow,threejs,vim,webpack,wordpress,git)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=figma,git,githubactions,github,neovim,postman,qt,tauri,tensorflow,threejs,vim,webpack,wordpress)](https://skillicons.dev) 
 
 
 ## 📊 Stats
