@@ -65,7 +65,7 @@ I´m in love with the innovation and building things from scratch. My motto is "
 ## 🧰 Languages and Tools
 
 ### 💡 Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,c+,go,java,pyhon,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,go,java,py,rust)](https://skillicons.dev)
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -348,16 +348,9 @@ I´m in love with the innovation and building things from scratch. My motto is "
 #
 
 ## 📊 Stats
-<div align="center">
-  <a href="https://github.com/Thrashy190">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thrashy190&theme=radical&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrashy190&theme=radical&layout=compact" />
-  </a>
- </div>
- 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thrashy190&theme=darkhub">
-</div>
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thrashy190&theme=dracula&border_radius=4&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thrashy190&theme=dracula&border_radius=4&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+<a href="https://github.com/Thrashy190">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thrashy190&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrashy190&theme=radical&layout=compact" />
+</a>
+<img src="https://github-profile-trophy.vercel.app/?username=Thrashy190&theme=darkhub">
