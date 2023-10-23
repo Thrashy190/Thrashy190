@@ -65,7 +65,7 @@ I´m in love with the innovation and building things from scratch. My motto is "
 ## 🧰 Languages and Tools
 
 ### 💡 Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,go,java,py,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,go,java,py,rust,dart)](https://skillicons.dev)
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
