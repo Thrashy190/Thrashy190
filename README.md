@@ -30,6 +30,10 @@
 
 <br />
 
+![](https://komarev.com/ghpvc/?username=Thrashy190&style=flat-square)
+
+<br />
+
 ## 🪚 Current project and technologies
 
 * [Desktop Analysis App with Tauri](https://github.com/Thrashy190/DataAnalysisApp)
