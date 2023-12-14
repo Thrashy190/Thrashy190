@@ -29,10 +29,6 @@
 </div>
 
 <br />
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=Thrashy190&style=flat-square)
-</div>  
-<br />
 
 ## 🪚 Current project and technologies
 
