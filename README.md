@@ -85,6 +85,9 @@ I´m in love with the innovation and building things from scratch. My motto is "
 
 ## 📊 Stats
 <div>
+ <img src="https://www.codewars.com/users/thrashy_234/badges/large">
+</div>
+<div>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thrashy190&theme=dracula&border_radius=4&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 </div>
 <div>
@@ -94,5 +97,5 @@ I´m in love with the innovation and building things from scratch. My motto is "
 </a>
 </div>
 <div>
-<img src="https://github-profile-trophy.vercel.app/?username=Thrashy190&theme=darkhub">
+<img src="https://github-profile-trophy.vercel.app/?username=Thrashy190&theme=darkhub"> 
 </div>
