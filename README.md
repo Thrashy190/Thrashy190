@@ -29,24 +29,25 @@
 </div>
 
 <br />
-
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=5000&color=9C1D60&random=false&width=435&lines=%F0%9F%AA%9A+Current+project+and+technologies)](https://git.io/typing-svg)
+</div>
 
-* [Desktop Analysis App with Tauri](https://github.com/Thrashy190/DataAnalysisApp)
+* [Open-source headless CMS build with Rust](https://github.com/Thrashy190/Cosmos)
 
 ```javascript
 const tecnologies = {
-   code: ["JavaScript","Rust"],
+   code: ["Rust", "html", "css"],
    technologies: {
-      desktopApp: {
-         Rust: ["Tauri"],
-         JavaScript: ["ReactJS"],
-         Styles: ["CoreUi","Tailwind","MaterialUI"],
+      App: {
+         Rust: ["Yew", "Diesel", etc..],
+         Styles: ["Tailwind"],
       },
-      databases: ["MongoDB"],
+      databases: ["Postgres", "SQLite", "MariaDB"],
    },
-   aboutIt: ["This project is being developed with the purpose of analyzing/visualizing driving data from police school cadets"],
-   challenge: "Learning Rust from scratch",
+   aboutIt: ["This project is being developed with the purpose of learn more advanced concepts of infrastructure and automation, as well as the creation of open source packages and libraries."],
+   challenge: "Understand how CMS like wordpress or strapi works and create a product that meets the level of market competition.",
 };
 ```
 
