@@ -1,10 +1,12 @@
+<h1 align="center">💀 Diego Antonio López Martínez (Thrashy) 💀</h1>
+
+<br />
+
 <div align="center">
   <img src="./anime-coding.gif" alt="img"/>
 </div>
 
 <br />
-
-<h1 align="center">💀 Diego Antonio López Martínez (Thrashy) 💀</h1>
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/thrashy190">
@@ -29,9 +31,10 @@
 </div>
 
 <br />
+
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=5000&color=9C1D60&random=false&width=500&lines=%F0%9F%AA%9A+Current+project+and+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=700&size=30&lines=%F0%9F%AA%9A+Current+project+and+technologies)](https://git.io/typing-svg)
 </div>
 
 * [Open-source headless CMS build with Rust](https://github.com/Thrashy190/Cosmos)
@@ -54,7 +57,11 @@ const tecnologies = {
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=5000&color=9C1D60&random=false&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Who+am+i%3F)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=700&size=30&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Who+am+i%3F)](https://git.io/typing-svg)
+
+</div>
 
 **`FullStack Developer | Student | Gamer | Streamer `**
 
@@ -62,8 +69,11 @@ I´m a 21 year old computer systems engineer mexican student who is passionated 
 
 I´m in love with the innovation and building things from scratch. My motto is "Reinvent the wheel", Why?, because is the best way to learn how the world works and be able to drive discovery and improvement.
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=5000&color=9C1D60&random=false&width=435&lines=%F0%9F%A7%B0+Languages+and+Tools)](https://git.io/typing-svg)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=700&size=30&lines=%F0%9F%A7%B0+Languages+and+Tools)](https://git.io/typing-svg)
+  
+</div>
 
 ### 💡 Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,go,java,py,rust,dart,php)](https://skillicons.dev)
@@ -83,9 +93,11 @@ I´m in love with the innovation and building things from scratch. My motto is "
 ### ⚙ Others
 [![My Skills](https://skillicons.dev/icons?i=figma,git,githubactions,github,neovim,postman,qt,tauri,tensorflow,threejs,vim,webpack,wordpress)](https://skillicons.dev) 
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=700&size=30&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=5000&color=9C1D60&random=false&width=435&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
-
+</div>
 <div>
  <img src="https://www.codewars.com/users/thrashy_234/badges/large">
 </div>
