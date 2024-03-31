@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./anime-coding.gif" alt="img"/>
+</div>
+
+<br />
+
 <h1 align="center">💀 Diego Antonio López Martínez (Thrashy) 💀</h1>
 
 <div align="center" id="badges">
@@ -23,15 +29,9 @@
 </div>
 
 <br />
-
-<div align="center">
-  <img src="./anime-coding.gif" alt="img"/>
-</div>
-
-<br />
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=5000&color=9C1D60&random=false&width=435&lines=%F0%9F%AA%9A+Current+project+and+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=5000&color=9C1D60&random=false&width=500&lines=%F0%9F%AA%9A+Current+project+and+technologies)](https://git.io/typing-svg)
 </div>
 
 * [Open-source headless CMS build with Rust](https://github.com/Thrashy190/Cosmos)
