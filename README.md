@@ -37,7 +37,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=700&size=30&lines=%F0%9F%AA%9A+Current+project+and+technologies)](https://git.io/typing-svg)
 </div>
 
-* [Open-source headless CMS build with Rust](https://github.com/Thrashy190/Cosmos)
+## [Open-source Headless CMS build with Rust](https://github.com/Thrashy190/Cosmos)
 
 ```javascript
 const tecnologies = {
@@ -59,19 +59,25 @@ const tecnologies = {
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=700&size=30&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Who+am+i%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=250&size=30&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Who+am+i%3F)](https://git.io/typing-svg)
 
 </div>
 
+<div align="center">
+  
 **`FullStack Developer | Student | Gamer | Streamer `**
+
+</div>
 
 I'm a 21 year old computer systems engineer mexican student who is passionated about being part of the future, always learning cutting-edge technologies as well as always looking for the opportunity to share my knowledge and increase the community of tech in the world.
 
 I'm in love with the innovation and building things from scratch. My motto is "Reinvent the wheel", Why?, because is the best way to learn how the world works and be able to drive discovery and improvement.
 
+<br>
+
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=700&size=30&lines=%F0%9F%A7%B0+Languages+and+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=400&size=30&lines=%F0%9F%A7%B0+Languages+and+Tools)](https://git.io/typing-svg)
   
 </div>
 
@@ -93,11 +99,15 @@ I'm in love with the innovation and building things from scratch. My motto is "R
 ### ⚙ Others
 [![My Skills](https://skillicons.dev/icons?i=figma,git,githubactions,github,neovim,postman,qt,tauri,tensorflow,threejs,vim,webpack,wordpress)](https://skillicons.dev) 
 
+<br>
+
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=700&size=30&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=200&size=30&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
 
 </div>
+
+
 <div>
  <img src="https://www.codewars.com/users/thrashy_234/badges/large">
 </div>
