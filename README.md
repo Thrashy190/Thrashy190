@@ -69,9 +69,7 @@ const tecnologies = {
 
 </div>
 
-I'm a 21 year old computer systems engineer mexican student who is passionated about being part of the future, always learning cutting-edge technologies as well as always looking for the opportunity to share my knowledge and increase the community of tech in the world.
-
-I'm in love with the innovation and building things from scratch. My motto is "Reinvent the wheel", Why?, because is the best way to learn how the world works and be able to drive discovery and improvement.
+Software Engineer with experience in the automotive and software development industries. Specialized in critical systems and custom applications, combining technical excellence and leadership skills. Freelancer in my spare time and currently developing a tech startup. Proficient in multiple programming languages, agile methodologies, and architectural design. Committed to innovation, integrity, and quality in every project.
 
 <br>
 
