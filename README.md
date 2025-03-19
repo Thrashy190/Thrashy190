@@ -109,8 +109,8 @@ Software Engineer with experience in the automotive and software development ind
 <div>
  <img src="https://www.codewars.com/users/thrashy_234/badges/large">
 </div>
-<div>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thrashy190&theme=dracula&border_radius=4&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Thrashy190&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 <div>
 <a href="https://github.com/Thrashy190">
@@ -118,6 +118,6 @@ Software Engineer with experience in the automotive and software development ind
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrashy190&theme=radical&layout=compact" />
 </a>
 </div>
-<div>
-<img src="https://github-profile-trophy.vercel.app/?username=Thrashy190&theme=radical&column=3&margin-w=15&margin-h=15"> 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Thrashy190&theme=radical&column=3&margin-w=15&margin-h=15"> 
 </div>
