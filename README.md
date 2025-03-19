@@ -119,5 +119,5 @@ Software Engineer with experience in the automotive and software development ind
 </a>
 </div>
 <div>
-<img src="https://github-profile-trophy.vercel.app/?username=Thrashy190&theme=darkhub"> 
+<img src="https://github-profile-trophy.vercel.app/?username=Thrashy190&theme=radical&column=3&margin-w=15&margin-h=15"> 
 </div>
