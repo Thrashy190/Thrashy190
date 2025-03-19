@@ -110,9 +110,6 @@ Software Engineer with experience in the automotive and software development ind
  <img src="https://www.codewars.com/users/thrashy_234/badges/large">
 </div>
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=Thrashy190&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-<div align="center">
   <a href="https://github.com/Thrashy190">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thrashy190&theme=radical&show_icons=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrashy190&theme=radical&layout=compact" />
