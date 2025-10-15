@@ -116,5 +116,8 @@ Software Engineer with experience in the automotive and software development ind
   </a>
 </div>
 <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thrashy190&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Thrashy190&theme=radical&column=3&margin-w=15&margin-h=15"> 
 </div>
