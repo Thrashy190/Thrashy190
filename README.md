@@ -15,13 +15,9 @@
   <a href="https://www.instagram.com/_thrashy_/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://twitter.com/Thrashybb345">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-   <a href="https://www.twitch.tv/thrashy19">
+<a href="https://www.twitch.tv/thrashy19">
     <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
   </a>
-   
   <a href="https://dev.to/thrashy190">
     <img src="https://img.shields.io/badge/Dev.to-white?style=for-the-badge&logo=dev.to&logoColor=black" alt="Twitch Badge"/>
   </a>
@@ -33,11 +29,12 @@
 <br />
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?width=900&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%F0%9F%AA%9A+Current+project+and+technologies)](https://git.io/typing-svg)
+
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=400&height=100&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Current+Project%22%2C%22color%22%3A%22%23791cc4%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.125%2C%22fontWeight%22%3A%22800%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+
 </div>
 
-## Rivo — Visual Infrastructure Platform (AWS)
+### Rivo — Visual Infrastructure Platform (AWS)
 
 ```javascript
 const tecnologies = {
@@ -63,7 +60,7 @@ const tecnologies = {
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?width=900&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Who+am+i%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=160&height=100&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Who+I+am%3F%22%2C%22color%22%3A%22%23791cc4%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.125%2C%22fontWeight%22%3A%22800%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 </div>
 
@@ -83,34 +80,28 @@ Currently building systems that enable teams to deploy infrastructure faster and
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?width=900&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%F0%9F%A7%B0+Languages+and+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=900&height=100&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Languages+Frameworks+and+more...%22%2C%22color%22%3A%22%23791cc4%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.125%2C%22fontWeight%22%3A%22800%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
   
 </div>
 
+<div align="center">
+
+| Category | Stack |
+|----------|------|
+| 💡 Languages | [![My Skills](https://skillicons.dev/icons?i=go,py,ts,js,rust,bash,java,cpp)](https://skillicons.dev) |
+| 💻 Front-end | [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux)](https://skillicons.dev) |
+| 🔧 Back-end | [![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,express,graphql,nestjs)](https://skillicons.dev) |
+| 💾 Databases | [![My Skills](https://skillicons.dev/icons?i=postgres,redis,dynamodb,mongodb)](https://skillicons.dev) |
+| ☁️ DevOps / Cloud | [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,nginx,githubactions,prometheus,grafana)](https://skillicons.dev) |
+| ⚙️ Others | [![My Skills](https://skillicons.dev/icons?i=git,github,linux,neovim,vim,postman,figma)](https://skillicons.dev) |
+
 </div>
 
-### 💡 Languages
-[![My Skills](https://skillicons.dev/icons?i=go,py,ts,js,rust,bash,java,cpp)](https://skillicons.dev)
-
-### 💻 Front-end
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux)](https://skillicons.dev)
-
-### 🔧 Back-end
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,graphql,nestjs,fastapi)](https://skillicons.dev)   
-
-### 💾 Data bases
-[![My Skills](https://skillicons.dev/icons?i=postgres,redis,dynamodb,mongodb)](https://skillicons.dev)   
-
-### ☁️ DevOps - cloud
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,nginx,githubactions,prometheus,grafana)](https://skillicons.dev) 
-
-### ⚙ Others
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,neovim,vim,postman,figma)](https://skillicons.dev) 
 <br>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?width=900&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=300&height=100&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Personal+Stats%22%2C%22color%22%3A%22%23791cc4%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.125%2C%22fontWeight%22%3A%22800%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 </div>
 
@@ -119,14 +110,6 @@ Currently building systems that enable teams to deploy infrastructure faster and
  <img src="https://www.codewars.com/users/thrashy_234/badges/large">
 </div>
 <div align="center">
-  <a href="https://github.com/Thrashy190">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thrashy190&theme=radical&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrashy190&theme=radical&layout=compact" />
-  </a>
-</div>
-<div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thrashy190&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Thrashy190&theme=radical&column=3&margin-w=15&margin-h=15"> 
-</div>
+
