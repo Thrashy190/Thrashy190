@@ -34,7 +34,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=700&size=30&lines=%F0%9F%AA%9A+Current+project+and+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?width=900&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%F0%9F%AA%9A+Current+project+and+technologies)](https://git.io/typing-svg)
 </div>
 
 ## Rivo — Visual Infrastructure Platform (AWS)
@@ -44,12 +44,12 @@ const tecnologies = {
    code: ["TypeScript", "Go", "Python"],
    technologies: {
       platform: {
-         cloud: ["AWS (IAM, STS, S3, DynamoDB)"],
+         cloud: ["AWS (IAM, STS, S3, DynamoDB, Serverless, EKS, SQS, SNS, SES, Fargate)"],
          infra: ["Terraform", "Docker", "Kubernetes"],
       },
-      backend: ["Node.js", "Express", "GraphQL"],
-      observability: ["Prometheus", "CloudWatch"],
-      databases: ["Postgres", "Redis"],
+      backend: ["Python", "Boto3", "Golang"],
+      observability: ["Prometheus", "CloudWatch", "Grafana"],
+      databases: ["DynamoDB", "Redis"],
    },
    aboutIt: [
       "Rivo is a platform to design and deploy AWS infrastructure visually without writing Terraform.",
@@ -63,7 +63,7 @@ const tecnologies = {
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=250&size=30&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Who+am+i%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?width=900&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Who+am+i%3F)](https://git.io/typing-svg)
 
 </div>
 
@@ -83,7 +83,7 @@ Currently building systems that enable teams to deploy infrastructure faster and
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=400&size=30&lines=%F0%9F%A7%B0+Languages+and+Tools)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?width=900&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%F0%9F%A7%B0+Languages+and+Tools)](https://git.io/typing-svg)
   
 </div>
 
@@ -110,7 +110,7 @@ Currently building systems that enable teams to deploy infrastructure faster and
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&duration=2000&pause=5000&color=9C1D60&random=false&width=200&size=30&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?width=900&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%F0%9F%93%8A+Stats)](https://git.io/typing-svg)
 
 </div>
 
