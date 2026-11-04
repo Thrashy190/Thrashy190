@@ -21,7 +21,6 @@
   <a href="https://www.instagram.com/_thrashy_/"><img src="./links/instagram.svg" alt="Instagram"/></a>
   <a href="https://www.twitch.tv/thrashy19"><img src="./links/twitch.svg" alt="Twitch"/></a>
   <a href="https://dev.to/thrashy190"><img src="./links/devto.svg" alt="Dev.to"/></a>
-  <a href="https://discord.gg/2skZVhpbjK"><img src="./links/discord.svg" alt="Discord server"/></a>
 </div>
 
 <br />
