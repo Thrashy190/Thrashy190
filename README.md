@@ -30,31 +30,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=400&height=100&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Current+Project%22%2C%22color%22%3A%22%23791cc4%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.125%2C%22fontWeight%22%3A%22800%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
+[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=440&height=100&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Current+Projects%22%2C%22color%22%3A%22%23791cc4%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.125%2C%22fontWeight%22%3A%22800%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
 </div>
 
-### Rivo — Visual Infrastructure Platform (AWS)
-
-```javascript
-const tecnologies = {
-   code: ["TypeScript", "Go", "Python"],
-   technologies: {
-      platform: {
-         cloud: ["AWS (IAM, STS, S3, DynamoDB, Serverless, EKS, SQS, SNS, SES, Fargate)"],
-         infra: ["Terraform", "Docker", "Kubernetes"],
-      },
-      backend: ["Python", "Boto3", "Golang"],
-      observability: ["Prometheus", "CloudWatch", "Grafana"],
-      databases: ["DynamoDB", "Redis"],
-   },
-   aboutIt: [
-      "Rivo is a platform to design and deploy AWS infrastructure visually without writing Terraform.",
-      "Focused on internal developer platforms and self-service infrastructure."
-   ],
-   challenge: "Abstract complex cloud infrastructure into a simple UI while maintaining flexibility, security and scalability.",
-};
-```
+<div align="center">
+  <a href="https://github.com/Thrashy190/eco"><img src="./cards/eco.svg" width="400" alt="eco, in daily use and open source. Self-hosted music app: search any song, download it to your library and listen offline on your phone. Go, React, TypeScript, Navidrome, Docker, MusicBrainz, yt-dlp, ffmpeg."/></a>
+  <a href="https://github.com/Thrashy190/Rivo"><img src="./cards/rivo.svg" width="400" alt="Rivo, in progress. Design AWS infrastructure on a visual canvas and get the Terraform without writing it. Go, React, TypeScript, AWS Lambda, API Gateway, DynamoDB, Terraform."/></a>
+</div>
 
 <br />
 
@@ -96,20 +79,3 @@ Currently building systems that enable teams to deploy infrastructure faster and
 | ⚙️ Others | [![My Skills](https://skillicons.dev/icons?i=git,github,linux,neovim,vim,postman,figma)](https://skillicons.dev) |
 
 </div>
-
-<br>
-
-<div align="center">
-  
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=300&height=100&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Personal+Stats%22%2C%22color%22%3A%22%23791cc4%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.125%2C%22fontWeight%22%3A%22800%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
-
-</div>
-
-
-<div align="center">
- <img src="https://www.codewars.com/users/thrashy_234/badges/large">
-</div>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thrashy190&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
