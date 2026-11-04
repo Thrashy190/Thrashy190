@@ -28,11 +28,7 @@
 
 <br />
 
-<div align="center">
-
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=440&height=100&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Current+Projects%22%2C%22color%22%3A%22%23791cc4%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.125%2C%22fontWeight%22%3A%22800%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
-
-</div>
+<h2 align="center">Current Projects</h2>
 
 <div align="center">
   <a href="https://github.com/Thrashy190/eco"><img src="./cards/eco.svg" width="400" alt="eco, in daily use and open source. Self-hosted music app: search any song, download it to your library and listen offline on your phone. Go, React, TypeScript, Navidrome, Docker, MusicBrainz, yt-dlp, ffmpeg."/></a>
@@ -41,11 +37,7 @@
 
 <br />
 
-<div align="center">
-  
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=160&height=100&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Who+I+am%3F%22%2C%22color%22%3A%22%23791cc4%22%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.125%2C%22fontWeight%22%3A%22800%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
-
-</div>
+<h2 align="center">Who I am</h2>
 
 <div align="center">
   
@@ -61,11 +53,7 @@ Currently building systems that enable teams to deploy infrastructure faster and
 
 <br>
 
-<div align="center">
-  
-[![Typing SVG](https://typingsvg.vercel.app/api/svg?width=900&height=100&backgroundOpacity=0&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22Languages+Frameworks+and+more...%22%2C%22color%22%3A%22%23791cc4%22%2C%22fontSize%22%3A30%2C%22typingSpeed%22%3A0.1%2C%22deleteSpeed%22%3A0.125%2C%22fontWeight%22%3A%22800%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
-  
-</div>
+<h2 align="center">Languages, frameworks and more</h2>
 
 <div align="center">
 
