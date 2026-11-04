@@ -7,31 +7,21 @@
 
 <br />
 
+<!--
 <div align="center">
   <img src="./anime-coding.gif" alt="img"/>
 </div>
 
 <br />
+-->
 
 <div align="center" id="badges">
-  <a href="https://www.thrashy.site">
-    <img src="https://img.shields.io/badge/Website-5c1020?style=for-the-badge&logoColor=white" alt="Website Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/diegoalopezm">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/_thrashy_/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-<a href="https://www.twitch.tv/thrashy19">
-    <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
-  </a>
-  <a href="https://dev.to/thrashy190">
-    <img src="https://img.shields.io/badge/Dev.to-white?style=for-the-badge&logo=dev.to&logoColor=black" alt="Dev.to Badge"/>
-  </a>
-   <a href="https://discord.gg/2skZVhpbjK">
-    <img src="https://img.shields.io/badge/Discord_server-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
+  <a href="https://www.thrashy.site"><img src="./links/website.svg" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/diegoalopezm"><img src="./links/linkedin.svg" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/_thrashy_/"><img src="./links/instagram.svg" alt="Instagram"/></a>
+  <a href="https://www.twitch.tv/thrashy19"><img src="./links/twitch.svg" alt="Twitch"/></a>
+  <a href="https://dev.to/thrashy190"><img src="./links/devto.svg" alt="Dev.to"/></a>
+  <a href="https://discord.gg/2skZVhpbjK"><img src="./links/discord.svg" alt="Discord server"/></a>
 </div>
 
 <br />
@@ -85,14 +75,8 @@ Outside work I build my own products, like the ones below.
 <br />
 
 <div align="center">
-
-| Category | Stack |
-|----------|------|
-| 💡 Languages | [![My Skills](https://skillicons.dev/icons?i=go,py,ts,js,rust,bash)](https://skillicons.dev) |
-| 💻 Front-end | [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux)](https://skillicons.dev) |
-| 🔧 Back-end | [![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,express,graphql,nestjs)](https://skillicons.dev) |
-| 💾 Databases | [![My Skills](https://skillicons.dev/icons?i=postgres,redis,dynamodb,mongodb)](https://skillicons.dev) |
-| ☁️ DevOps / Cloud | [![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,nginx,githubactions,prometheus,grafana)](https://skillicons.dev) |
-| ⚙️ Others | [![My Skills](https://skillicons.dev/icons?i=git,github,linux,neovim,postman,figma)](https://skillicons.dev) |
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./titles/arsenal-dark.svg"/>
+    <img src="./titles/arsenal-light.svg" width="840" alt="Languages: Go, Python, TypeScript, JavaScript, Rust, Bash. Front-end: React, Next.js, Tailwind CSS, Vite, Redux. Back-end: FastAPI, Node.js, Express, GraphQL, NestJS. Cloud and DevOps: AWS, Docker, Kubernetes, Terraform, Nginx, GitHub Actions, Prometheus, Grafana. Databases: PostgreSQL, Redis, DynamoDB, MongoDB. Tooling: Git, GitHub, Linux, Neovim, Postman, Figma."/>
+  </picture>
 </div>
