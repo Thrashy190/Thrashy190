@@ -56,7 +56,7 @@ Outside work I build my own products, like the ones below.
 <br />
 
 <div align="center">
-  <a href="https://github.com/Thrashy190/eco"><img src="./cards/eco.svg" width="400" alt="eco, in daily use and open source. Self-hosted music app: search any song, download it to your library and listen offline on your phone. Go, React, TypeScript, Navidrome, Docker, MusicBrainz, yt-dlp, ffmpeg."/></a>
+  <a href="https://github.com/Thrashy190/eco"><img src="./cards/eco.svg" width="400" alt="Eco, in daily use and open source. Self-hosted music app: search any song, download it to your library and listen offline on your phone. Go, React, TypeScript, Navidrome, Docker, MusicBrainz, yt-dlp, ffmpeg."/></a>
   <a href="https://www.lade.com.mx/"><img src="./cards/lade.svg" width="400" alt="Lade, live, co-founder. All-in-one platform for trucking companies in Mexico: fleet, routes, trips and CFDI invoicing. React, TypeScript, Vite, Tailwind CSS, AWS Serverless, Terraform."/></a>
   <br />
   <a href="https://github.com/Thrashy190/Rivo"><img src="./cards/rivo.svg" width="400" alt="Rivo, in progress. Design AWS infrastructure on a visual canvas and get the Terraform without writing it. Go, React, TypeScript, AWS Lambda, API Gateway, DynamoDB, Terraform."/></a>
